@@ -3,7 +3,7 @@
 
 如果教學有誤再請糾正:sweat_smile:
 
-影片介紹 [Gulp基本教學 - 從無到有 Gulp-Beginners-Guide]()
+影片介紹 [Gulp基本教學 - 從無到有 Gulp-Beginners-Guide](https://youtu.be/2XPn19EKYcw)
 
 ## Gulp 介紹
 
