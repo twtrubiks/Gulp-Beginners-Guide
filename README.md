@@ -168,6 +168,21 @@ gulp lint
 
 gulp-jshint 會和你說你的 js 有哪些部份需要修改
 
+p.s 有時候你可能會看到 <b>too many errors</b> 導致你看不到全部的錯誤，這時候可以使用以下方法。
+
+先在 cmd (命令提示字元) 輸入以下指令建立檔案
+```
+touch .jshintrc
+```
+
+再將下列程式碼輸入到 <b>.jshintrc</b> 裡面
+```
+{
+    "maxerr" : 999
+}
+```
+這樣就可以解決  <b>too many errors</b> 的問題。
+
 #### gulp-htmlmin
 
 請參考 [gulp-htmlmin](https://github.com/jonschlinkert/gulp-htmlmin)
